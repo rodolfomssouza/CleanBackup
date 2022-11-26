@@ -14,4 +14,4 @@ directores will also be deleted.
 # Requirements
 - Python 3.90 or greater;
 - pandas;
-- rharsh.
+- rhash (e.g., sudo apt install rhash).
