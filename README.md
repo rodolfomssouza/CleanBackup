@@ -1,10 +1,10 @@
-# CleanBackup
+# CleanDupFiles
 
 Remove duplicated and hidden files.
 
 The goal of this algorithm is to check duplicated files and
 remove duplicates across multiple directories. It is recommended to
-run in a backup folder. This algorithm comes with NO WARRANTY.
+run in a backup folder. This algorithm comes with **NO WARRANTY**.
 
 A list of files checksum a directory will be created.
 After that, python will check by duplicated checksums and export
