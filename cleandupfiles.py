@@ -1,5 +1,5 @@
 """
-Check and remove duplicated and hidden files
+Check and remove duplicated and hidden files.
 """
 
 # %% Packages
